@@ -77,7 +77,7 @@
     },
     {
         "food":  "DTE Neutral",
-        "Codigo":  "Nivel 10\r\n* 1018530\r\n\r\nNivel 8\r\n* 4040088"
+        "Codigo":  "Nivel 10\r\n* 1018530\r\n\r\nNivel 8\r\n* 4040088\r\n* 1230500"
     },
     {
         "food":  "DTE FIRE",
@@ -89,18 +89,18 @@
     },
     {
         "food":  "DTE Wind",
-        "Codigo":  "Nivel 10\r\n* 3030303\r\n\r\nNivel 9\r\n* 7257777"
+        "Codigo":  "Nivel 10\r\n* 3030303\r\n\r\nNivel 9\r\n* 7257777\r\n\r\nNivel 8\r\n* 1230400"
     },
     {
         "food":  "DTE Earth",
-        "Codigo":  "Nivel 10\r\n* 2020202\r\n* 7100666\r\n\r\nNivel 9\r\n* 1011001\r\n* 4046666\r\n* 4233333\r\n\r\nNivel 8\r\n* 1010216"
+        "Codigo":  "Nivel 10\r\n* 2020202\r\n* 7100666\r\n\r\nNivel 9\r\n* 1011001\r\n* 4046666\r\n* 4233333\r\n\r\nNivel 8\r\n* 1010216\r\n* 1230100(Este Varía con STR 10 y AMPR 10)"
     },
     {
         "food":  "DTE Dark",
-        "Codigo":  "Nivel 10\r\n* 1190020\r\n* 2130776\r\n* 6116116\r\n\r\nNivel 9\r\n* 5010092"
+        "Codigo":  "Nivel 10\r\n* 1190020\r\n* 2130776\r\n* 6116116\r\n\r\nNivel 9\r\n* 5010092\r\n\r\nNivel 8\r\n* 1230600"
     },
     {
         "food":  "DTE Light",
-        "Codigo":  "Nivel 10\r\n* 1105050\r\n\r\nNivel 9\r\n* 1020345\r\n* 3111999\r\n\r\nNivel 8\r\n* 1019696"
+        "Codigo":  "Nivel 10\r\n* 1105050\r\n\r\nNivel 9\r\n* 1020345\r\n* 3111999\r\n\r\nNivel 8\r\n* 1019696\r\n* 1230700"
     }
 ]
