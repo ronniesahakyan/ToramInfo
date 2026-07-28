@@ -81,7 +81,7 @@
     },
     {
         "food":  "DTE FIRE",
-        "Codigo":  "Nivel 10\r\n* 1230200\r\n\r\nNivel 9\r\n* 1121212\r\n* 3210106\r\n* 7088807\r\n* 9181111\r\n\r\nNivel 7\r\n* 8120000"
+        "Codigo":  "Nivel 10\r\n* 1230200\r\n* 6098888\r\n\r\nNivel 9\r\n* 1121212\r\n* 3210106\r\n* 7088807\r\n* 9181111\r\n\r\nNivel 7\r\n* 8120000"
     },
     {
         "food":  "DTE Water",
@@ -101,6 +101,6 @@
     },
     {
         "food":  "DTE Light",
-        "Codigo":  "Nivel 10\r\n* 1105050\r\n\r\nNivel 9\r\n* 1020345\r\n* 3111999\r\n\r\nNivel 8\r\n* 1019696\r\n* 1230700"
+        "Codigo":  "Nivel 10\r\n* 1105050\r\n* 2210105\r\n\r\nNivel 9\r\n* 1020345\r\n* 3111999\r\n\r\nNivel 8\r\n* 1019696\r\n* 1230700"
     }
 ]
