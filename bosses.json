@@ -3039,7 +3039,7 @@
         "notes": "F: Retaliates during Purple phase. T: Retaliates during Green phase. S: Retaliates during Red phase. FTS: The boss's color/phase changes to the next one in the sequence. The order of color/phase change is: Purple->Green->Red->Purple. Retaliate is in the form of Silence inflicting spikes.",
         "phase": null,
         "physical_defense": 315,
-        "physical_prorate": "[PURPLE: 7; RED: 70; GREEN: -75];",
+        "physical_prorate": "[PURPLE: 7; RED: 70; GREEN: -75]",
         "physical_resistance": 7,
         "related_boss": null,
         "state_label": null
